@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monday-test/static/css/main.deb8f140.css",
+    "main.js": "/monday-test/static/js/main.6d1cff04.js",
+    "static/js/787.4cdced93.chunk.js": "/monday-test/static/js/787.4cdced93.chunk.js",
+    "index.html": "/monday-test/index.html",
+    "main.deb8f140.css.map": "/monday-test/static/css/main.deb8f140.css.map",
+    "main.6d1cff04.js.map": "/monday-test/static/js/main.6d1cff04.js.map",
+    "787.4cdced93.chunk.js.map": "/monday-test/static/js/787.4cdced93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.deb8f140.css",
+    "static/js/main.6d1cff04.js"
+  ]
+}
